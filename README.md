@@ -1,2 +1,2 @@
 # Animation-and-Progress-bar
-This front-end web project involves creating a navigation bar similar to the ones found in popular web browsers like Google Chrome.In addition to the navigation bar, the project also includes dynamic animations applied to images on the web page.
+this project provides an example of how to create a clean and modern navigation bar for a website using only HTML and CSS, as well as how to add dynamic elements using CSS to make the website more engaging for users.
